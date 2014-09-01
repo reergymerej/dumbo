@@ -1,6 +1,6 @@
 {
   "name": "dumbo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "sometimes you're not ready for the data layer",
   "main": "index.js",
   "scripts": {
